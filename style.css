@@ -6,3 +6,25 @@
 html {
     font-size: 62.5%;
 }
+
+header {
+    width: 100%;
+}
+.header-titulo {
+    font-size: 3rem;
+    text-align: center;
+    color: crimson;
+    font-family: sans-serif;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+main .main-parrafos {
+    width: 60%;
+    margin-top: 5rem;
+    font-size: 1.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
