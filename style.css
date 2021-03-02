@@ -14,13 +14,18 @@ body {
 header {
     width: 100%;
     height: auto;
+    min-height: 5rem;
     background-color: #EA9F33;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .header-titulo {
     font-size: 3rem;
     text-align: center;
     color: #2E463E;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 1rem;
 }
 
 main {
