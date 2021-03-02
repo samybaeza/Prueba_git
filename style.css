@@ -37,6 +37,7 @@ footer {
     color: rgb(185, 184, 184);
     font-size: 1.6rem;
     position: absolute;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     bottom: 0px;
 }
 footer .footer-autor {
